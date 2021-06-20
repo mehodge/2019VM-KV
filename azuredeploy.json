@@ -80,7 +80,7 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "Win10VM",
+      "defaultValue": "2019VM",
       "metadata": {
         "description": "Name of the virtual machine."
       }
